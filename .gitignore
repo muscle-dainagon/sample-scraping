@@ -1,0 +1,6 @@
+test.ipynb
+datas/test.db
+modules/__init__.py
+modules/__pycache__/__init__.cpython-312.pyc
+modules/__pycache__/db.cpython-312.pyc
+modules/__pycache__/scraping.cpython-312.pyc
